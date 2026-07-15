@@ -38,6 +38,14 @@ This project analyzes climate and weather trends across Indian states from 2000 
 - El Niño vs Rainfall Analysis
 - Forecast Summary
 
+## Dashboard Preview
+
+### Climate Analysis Dashboard
+![Dashboard Page 1](dashboard_page1.png)
+
+### Forecasting Dashboard
+![Dashboard Page 2](dashboard_page2.png)
+
 ## Key Insights
 - Average temperature shows an increasing trend over time.
 - Rainfall patterns vary significantly across Indian states.
